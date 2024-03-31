@@ -1,1 +1,81 @@
 # Week-8_FitBit_Tracker_Analysis
+Capstone Project - Fitbit Consumer Behavior Analysis
+
+Objective:
+
+Imagine you are a data analyst at “HealthTrackers Inc.,” a fictional company operating in the Fitbit industry. Your company is dedicated to understanding consumer behavior to enhance product offerings and optimize marketing strategies. You have been tasked with analyzing a comprehensive dataset obtained from Fitbit users to uncover trends and insights. The business objective is to identify key trends, understand their implications for customers, and leverage these insights to shape an effective marketing strategy.
+
+Tasks:
+
+    Exploratory Data Analysis (EDA):
+
+Perform an in-depth exploratory data analysis on the Fitbit dataset.
+
+Explore the distribution of physical activity, heart rate, and sleep monitoring data.
+
+Identify any patterns or anomalies in the dataset.
+
+    Consumer Behavior Trends:
+
+Analyze trends related to physical activity, heart rate, and sleep patterns.
+
+Identify peak activity times, common sleep durations, and variations in heart rate.
+
+Investigate how these trends differ across different demographics if applicable.
+
+    Customer Segmentation:
+
+Segment Fitbit users based on their activity levels, sleep patterns, or any other relevant criteria.
+
+Analyze the characteristics and behaviors of each segment.
+
+    Implications for Customers:
+
+Based on your analysis, conclude what the identified trends could mean for Fitbit users.
+
+Provide insights into how these trends might impact users’ health and wellness.
+
+    Marketing Strategy Recommendations:
+
+Propose marketing strategies that can leverage the identified trends.
+
+Consider how HealthTrackers Inc. can tailor its product offerings, messaging, or promotions to align with consumer behaviors.
+
+Explore potential partnerships or collaborations based on your findings.
+
+    Visualization and Dashboard:
+
+Create visualizations and a Tableau dashboard to present your key findings.
+
+The dashboard should be user-friendly and visually appealing, facilitating easy interpretation of the trends.
+
+Deliverables:
+
+    Project Proposal:
+
+Outline your approach to the analysis, including the techniques and tools you plan to use.
+
+    Exploratory Data Analysis Report:
+
+Document your findings from the EDA, including visualizations and insights.
+
+    Customer Segmentation Analysis:
+
+Provide details on how you segmented Fitbit users and the characteristics of each segment.
+
+    Implications for Customers Report:
+
+Discuss the potential impact of identified trends on Fitbit users’ lifestyles and well-being.
+
+    Marketing Strategy Recommendations:
+
+Present your recommendations for HealthTrackers Inc.’s marketing strategy based on the consumer behavior analysis.
+
+    Tableau Dashboard: (OPTIONAL)
+
+
+Note:- In case you want to revise the pre-reqs, just head over to the resources section for a quick brush up.
+
+This final project is designed to showcase your skills in data analysis, segmentation, and the ability to translate insights into actionable marketing strategies.
+
+ Good luck, and have fun uncovering the secrets hidden in the Fitbit dataset!
